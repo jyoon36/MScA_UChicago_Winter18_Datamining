@@ -5,10 +5,9 @@
 Data URL : https://www.kaggle.com/gaborvecsei/fruit-juice-mix-of-pca-random-forest-svm/data
 
 Classficiation tools used:
-1. Random Forest
+1. Random Forest & Decision Tree
 2. SVM
 3. KNN(K-Means)
-4. Classification Trees
 
 Original images are in 100 pixels
 
