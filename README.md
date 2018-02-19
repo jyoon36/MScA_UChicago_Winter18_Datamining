@@ -14,7 +14,3 @@ Original images are in 100 pixels
 I ran models by using two ways on dimension reductions:
 1. PCA
 2. image resizing
-
-Drawbacks and requirements for data preprocessing:
-1. Images have to be centered
-2. Images in data set are in white background, in reality the backgrounds of images have to be separated first
